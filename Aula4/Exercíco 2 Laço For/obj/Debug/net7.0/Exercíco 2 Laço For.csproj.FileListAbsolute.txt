@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\bin\Debug\net7.0\Exercíco 2 Laço For.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\bin\Debug\net7.0\Exercíco 2 Laço For.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\bin\Debug\net7.0\Exercíco 2 Laço For.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\bin\Debug\net7.0\Exercíco 2 Laço For.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\bin\Debug\net7.0\Exercíco 2 Laço For.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\Exercíco 2 Laço For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\Exercíco 2 Laço For.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\Exercíco 2 Laço For.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\Exercíco 2 Laço For.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\Exercíco 2 Laço For.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\refint\Exercíco 2 Laço For.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\Exercíco 2 Laço For.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\Exercíco 2 Laço For.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercíco 2 Laço For\obj\Debug\net7.0\ref\Exercíco 2 Laço For.dll

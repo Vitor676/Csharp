@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\bin\Debug\net7.0\Exercício 5 DoWhile.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\bin\Debug\net7.0\Exercício 5 DoWhile.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\bin\Debug\net7.0\Exercício 5 DoWhile.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\bin\Debug\net7.0\Exercício 5 DoWhile.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\bin\Debug\net7.0\Exercício 5 DoWhile.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\Exercício 5 DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\Exercício 5 DoWhile.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\Exercício 5 DoWhile.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\Exercício 5 DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\Exercício 5 DoWhile.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\refint\Exercício 5 DoWhile.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\Exercício 5 DoWhile.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\Exercício 5 DoWhile.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 5 DoWhile\obj\Debug\net7.0\ref\Exercício 5 DoWhile.dll

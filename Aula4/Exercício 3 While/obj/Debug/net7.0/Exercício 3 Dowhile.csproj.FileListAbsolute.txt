@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\bin\Debug\net7.0\Exercício 3 Dowhile.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\bin\Debug\net7.0\Exercício 3 Dowhile.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\bin\Debug\net7.0\Exercício 3 Dowhile.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\bin\Debug\net7.0\Exercício 3 Dowhile.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\bin\Debug\net7.0\Exercício 3 Dowhile.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\Exercício 3 Dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\Exercício 3 Dowhile.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\Exercício 3 Dowhile.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\Exercício 3 Dowhile.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\Exercício 3 Dowhile.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\refint\Exercício 3 Dowhile.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\Exercício 3 Dowhile.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\Exercício 3 Dowhile.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Exercício 3 Dowhile\obj\Debug\net7.0\ref\Exercício 3 Dowhile.dll
