@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\bin\Debug\net7.0\Exercício Vetores 01.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\bin\Debug\net7.0\Exercício Vetores 01.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\bin\Debug\net7.0\Exercício Vetores 01.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\bin\Debug\net7.0\Exercício Vetores 01.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\bin\Debug\net7.0\Exercício Vetores 01.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\Exercício Vetores 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\Exercício Vetores 01.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\Exercício Vetores 01.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\Exercício Vetores 01.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\Exercício Vetores 01.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\refint\Exercício Vetores 01.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\Exercício Vetores 01.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\Exercício Vetores 01.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Vetores 01\obj\Debug\net7.0\ref\Exercício Vetores 01.dll

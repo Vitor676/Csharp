@@ -1,0 +1,4 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Matrizes\obj\Debug\net7.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula4\Matrizes\obj\Debug\net7.0\Matrizes.csproj.CoreCompileInputs.cache

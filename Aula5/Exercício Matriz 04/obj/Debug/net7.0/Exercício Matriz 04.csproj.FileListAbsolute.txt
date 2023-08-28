@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\bin\Debug\net7.0\Exercício Matriz 04.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\bin\Debug\net7.0\Exercício Matriz 04.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\bin\Debug\net7.0\Exercício Matriz 04.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\bin\Debug\net7.0\Exercício Matriz 04.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\bin\Debug\net7.0\Exercício Matriz 04.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\Exercício Matriz 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\Exercício Matriz 04.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\Exercício Matriz 04.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\Exercício Matriz 04.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\Exercício Matriz 04.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\refint\Exercício Matriz 04.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\Exercício Matriz 04.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\Exercício Matriz 04.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula5\Exercício Matriz 04\obj\Debug\net7.0\ref\Exercício Matriz 04.dll
