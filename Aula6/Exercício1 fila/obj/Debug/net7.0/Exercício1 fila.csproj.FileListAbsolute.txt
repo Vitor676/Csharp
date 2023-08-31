@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\bin\Debug\net7.0\Exercício1 fila.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\bin\Debug\net7.0\Exercício1 fila.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\bin\Debug\net7.0\Exercício1 fila.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\bin\Debug\net7.0\Exercício1 fila.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\bin\Debug\net7.0\Exercício1 fila.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\Exercício1 fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\Exercício1 fila.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\Exercício1 fila.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\Exercício1 fila.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\Exercício1 fila.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\refint\Exercício1 fila.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\Exercício1 fila.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\Exercício1 fila.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\Aula6\Exercício1 fila\obj\Debug\net7.0\ref\Exercício1 fila.dll

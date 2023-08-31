@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\Planodesaude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\Planodesaude.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\Planodesaude.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\Planodesaude.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\bin\Debug\net7.0\Planodesaude.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\bin\Debug\net7.0\Planodesaude.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\bin\Debug\net7.0\Planodesaude.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\bin\Debug\net7.0\Planodesaude.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\bin\Debug\net7.0\Planodesaude.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\Planodesaude.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\refint\Planodesaude.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\Planodesaude.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\Planodesaude.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\csharp\aula2\Aula03\Planodesaude\obj\Debug\net7.0\ref\Planodesaude.dll
