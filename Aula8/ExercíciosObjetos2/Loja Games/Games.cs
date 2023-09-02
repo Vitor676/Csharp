@@ -6,88 +6,49 @@ using System.Threading.Tasks;
 
 namespace ExercíciosObjetos2.Loja_Games
 {
-    public class Games
+    public class Games : Produto
     {
 
-        private string nome;
-        private string classificação;
-        private int preço;
-        private int notas;
+        
+        private string classificacao;
         private string comentario;
 
-        public Games(string nome, string classificação, int preço, int notas, string comentario)
+        public Games(
+                string classificacao, string comentario, string nome, decimal preco, string notas, string descricao, string marca) 
+                : base(nome, preco, notas, descricao, marca)
         {
-            this.nome = nome;
-            this.classificação = classificação;
-            this.preço = preço;
-            this.notas = notas;
+            this.classificacao = classificacao;
             this.comentario = comentario;
         }
-        public string GetNome()
+        public string GetClassificacao()
         {
-            return nome;
+            return classificacao;
         }
 
-        public void SetNome(string nome)
+        public void SetClassificacao(string classificacao)
         {
-            this.nome = nome;
+            this.classificacao = classificacao ;
         }
 
-        public string Getclassificação()
-        {
-            return classificação;
-        }
 
-        public void Setclassificação(string classificação)
-        {
-            this.classificação = classificação;
-        }
-
-        public int Getpreço()
-        {
-            return preço;
-        }
-
-        public void Setpreço(int preço)
-        {
-            this.preço = preço;
-        }
-
-        public int Getnotas()
-        {
-            return notas;
-        }
-
-        public void Setnota(int notas)
-        {
-            this.notas = notas;
-        }
-
-        public string Getcomentario()
+        public string GetComentario()
         {
             return comentario;
         }
 
-        public void Setcomentario(string comentario)
+        public void SetComentario(string comentario)
         {
             this.comentario = comentario;
         }
-
-
-        public void Visualizar()
+        public override void Visualizar()
         {
 
 
-            Console.WriteLine("****************************");
-            Console.WriteLine("Loja do JooJ");
-            Console.WriteLine("****************************");
-            Console.WriteLine($"Nome do Jogo {this.nome}");
-            Console.WriteLine($"Classificação do Jogo {this.classificação}");
-            Console.WriteLine($"Preço do Jogo {this.preço}");
-            Console.WriteLine($"Notas do Jogo {this.notas}");
-            Console.WriteLine($"Comentarios do Jogo {this.comentario}");
+            base.Visualizar();
+            Console.WriteLine($"Classificação {this.classificacao}");
+            Console.WriteLine($"Comentario {this.comentario}");
+           
         }
-
     }
 }
 

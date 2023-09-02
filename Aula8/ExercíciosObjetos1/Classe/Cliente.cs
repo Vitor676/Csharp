@@ -12,15 +12,15 @@ namespace ExercíciosObjetos1.Classe
         private string nome;
         private float altura;
         private int idade;
-        private string cpf;
+        private string cordoCabelo;
         private string sexo;
 
-        public Cliente(string nome, float altura, int idade, string cpf, string sexo)
+        public Cliente(string nome, float altura, int idade, string cordoCabelo, string sexo)
         {
             this.nome = nome;
             this.altura = altura;
             this.idade = idade;
-            this.cpf = cpf;
+            this.cordoCabelo = cordoCabelo;
             this.sexo = sexo;
         }
         public string GetNome()
@@ -53,14 +53,14 @@ namespace ExercíciosObjetos1.Classe
             this.idade = idade;
         }
 
-        public string GetCpf()
+        public string GetCordoCabelo()
         {
-            return cpf;
+            return cordoCabelo;
         }
 
-        public void SetCpf(string  cpf)
+        public void SetCordoCabelo(string cordoCabelo)
         {
-            this.cpf = cpf;
+            this.cordoCabelo = cordoCabelo;
         }
 
         public string GetSexo()
@@ -74,7 +74,7 @@ namespace ExercíciosObjetos1.Classe
         }
         
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
             
 
@@ -84,7 +84,7 @@ namespace ExercíciosObjetos1.Classe
             Console.WriteLine($"Nome do Cliente {this.nome}");
             Console.WriteLine($"Altura do Cliente {this.altura}");
             Console.WriteLine($"Idade do Cliente {this.idade}");
-            Console.WriteLine($"Cpf do Cliente {this.cpf}");
+            Console.WriteLine($"Cor do Cabelo do Cliente {this.cordoCabelo}");
             Console.WriteLine($"Sexo do Cliente {this.sexo}");
         }
 
